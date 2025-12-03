@@ -1,0 +1,4 @@
+[package]
+org = "niduni"
+name = "myprojects"
+version = "0.1.0"

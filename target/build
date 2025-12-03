@@ -1,0 +1,98 @@
+{
+  "last_build_time": 1764749054122,
+  "last_update_time": 1764749054122,
+  "last_bal_toml_update_time": 1764748806141,
+  "distribution_version": "2201.13.1",
+  "last_modified_time": {
+    "myprojects": 1764748956430
+  },
+  "last_build_options": {
+    "testReport": false,
+    "codeCoverage": false,
+    "skipTests": true,
+    "compilationOptions": {
+      "experimental": false,
+      "cloud": "",
+      "dumpGraph": false,
+      "dumpRawGraphs": false
+    }
+  },
+  "src_meta_info": [
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\agents.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819490
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\automation.bal",
+      "hash": "88a530f6aeab2075a17e196779e0b304658077e67485d443bb03be92d1649bcc",
+      "size": 243,
+      "lastModifiedTime": 1764748956430
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\Ballerina.toml",
+      "hash": "e70b082b718643d0fb5104225f5c133f57cd47d5c40a78e454064a86b2fbe7c7",
+      "size": 62,
+      "lastModifiedTime": 1764748806141
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\config.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819491
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\connections.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819491
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\data_mappings.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819492
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\functions.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819492
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\main.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819492
+    },
+    {
+      "file": "C:\\Users\\niduniDK\\my\\MyProjects\\types.bal",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "lastModifiedTime": 1764748819492
+    }
+  ],
+  "target_exec_meta_info": {
+    "file": "C:\\Users\\niduniDK\\my\\MyProjects\\target\\backup\\bin\\myprojects.jar",
+    "hash": "00a05bc60f04bd408621236dcf58e0a5d6ace8e7abce73f0ed054e0a277a65e6",
+    "size": 11311026,
+    "lastModifiedTime": 1764749055113
+  },
+  "settings_meta_info": {
+    "file": "C:\\Users\\niduniDK\\.ballerina\\Settings.toml",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "lastModifiedTime": 1764742692922
+  },
+  "ballerina_toml_meta_info": {
+    "file": "C:\\Users\\niduniDK\\my\\MyProjects\\Ballerina.toml",
+    "hash": "e70b082b718643d0fb5104225f5c133f57cd47d5c40a78e454064a86b2fbe7c7",
+    "size": 62,
+    "lastModifiedTime": 1764748806141
+  },
+  "imports": [
+    "ballerina/io",
+    "ballerina/log"
+  ]
+}
